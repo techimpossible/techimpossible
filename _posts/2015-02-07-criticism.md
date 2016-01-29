@@ -7,8 +7,8 @@ published: true
 status: publish
 categories:
 - Quotes
-- blog
-tags: []
+
+tags: [action]
 
 ---
 <div class="quoteText">

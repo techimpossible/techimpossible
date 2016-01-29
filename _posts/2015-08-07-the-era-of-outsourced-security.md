@@ -6,8 +6,7 @@ type: post
 published: true
 
 categories:
-- cyber
-- blog
+- cyber-security
 tags:
 - MSSPs
 - SIEM

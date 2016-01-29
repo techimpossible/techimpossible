@@ -7,8 +7,8 @@ published: true
 status: publish
 categories:
 - Thoughts
-- blog
-tags: []
+
+tags: [clear]
 
 ---
 <p>Finding a distraction free space can be quite challenging. Taking away form without compromising functionality is a fine balance hard to find.</p>

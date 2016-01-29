@@ -5,7 +5,7 @@ date: 2015-08-29 03:07:23.000000000 +01:00
 type: post
 
 categories:
-- cyber
+- cyber-security
 - blog
 tags:
 - 2-factor

@@ -7,8 +7,8 @@ published: true
 
 categories:
 - Quotes
-- blog
-tags: []
+
+tags: [goals]
 
 ---
 <blockquote>

@@ -3,8 +3,8 @@ layout: post
 title: How to protect your kids online
 excerpt: Nowadays everything is online.
 categories:
-- cyber
-- blog
+- cyber-security
+
 tags:
 - identity
 - kids

@@ -4,7 +4,7 @@ title: "The Death Effect"
 excerpt: "Remembering that I'll be dead soon is the most important tool I've ever encountered
   to help me make the big choices in life."
 
-categories: [Quotes, blog]
+categories: [Quotes]
 tags: [life, priorities, Steve Jobs]
 modified: 2015-05-05
   

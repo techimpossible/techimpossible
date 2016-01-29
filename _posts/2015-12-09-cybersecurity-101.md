@@ -3,7 +3,7 @@ layout: post
 title: "Cybersecurity 101: 10 Steps To Cyber Security And Beyond For Today's World"
 excerpt: "Walking around The National Museum of Computing at Bletchley Park the other
   day..."
-categories: [blog, cyber-security]
+categories: [cyber-security]
 tags: [sample-post, readability]
 
 imagefeature: cyber.jpg

@@ -4,8 +4,7 @@ title: 10 Signs that we have entered the surveillance Era
 excerpt: "This is a list of evidence that we have entered a new era."
 
 categories:
-- cyber
-- blog
+- cyber-security
 tags:
 - 44con
 - big data
@@ -15,8 +14,7 @@ tags:
 - smart tv
 - surveillance
 
-image:
- feature: person-of-interest-5072bf01989d0.jpg
+imagefeature: person-of-interest-5072bf01989d0.jpg
 
 comments: true
 share: true

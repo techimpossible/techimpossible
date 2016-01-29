@@ -2,7 +2,7 @@
 layout: post
 title: "The Static Pages Revolution"
 excerpt: "The Static website revolution is already here."
-categories: [IT,blog]
+categories: [IT]
 tags: [static sites, github, jekyll]
 published: false
 

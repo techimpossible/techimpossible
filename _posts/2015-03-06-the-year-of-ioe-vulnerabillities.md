@@ -4,14 +4,13 @@ title: 2015 - The Year of IoE Vulnerabillities
 excerpt: "With the emergence of more and more Linux powered devices, whether these
   are Android smart phones.."
 categories:
-- cyber
-- blog
+- cyber-security
+
 tags:
 - IOE
 - security
 
-image:
- feature: iot.jpg
+imagefeature: iot.jpg
 
 comments: true
 share: true

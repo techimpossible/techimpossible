@@ -5,8 +5,6 @@ excerpt: There is nothing more exciting than a TV Show that uses actual Security
   as these are used today in real life.
 
 categories:
-- cyber
-- blog
 - cyber-security
 tags:
 - Encryption
@@ -16,11 +14,9 @@ tags:
 - Protonmail
 - Raspberry Pi
 - Social-Engineer Toolkit
-modified: 2015-09-17
-image:
-  feature: mrrobot.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+
+imagefeature: mrrobot.jpg
+
 comments: true
 share: true
 ---
