@@ -81,7 +81,7 @@ share: true
 <p>I have been able to see what big companies see and that is a lot of unseemingly random information. With the use of algorithms and big data manipulation though, you can learn who is using your app, what is their financial status and many more details.</p>
 <p>Especially on Facebook, which could well be a country on its own, you can create advertising campaigns targeting exactly the people you want.</p>
 <p>More interestingly you can target the people that have previously spend money buying stuff advertised on Facebook and spend a certain amount.</p>
-<p>       [caption id="" align="alignnone" width="1416.0"]<img src="{{ site.baseurl }}/iamges/img.png" alt="Facebook Ads" /> Facebook Ads[/caption] </p>
+<p>  <img src="{{ site.baseurl }}/iamges/facebookads.png" alt="Facebook Ads" /> Facebook Ads </p>
 <p> </p>
 <p>This is powerful for marketing, but it just goes to show that everything you do online does not go unrecorded.</p>
 <p> </p>
