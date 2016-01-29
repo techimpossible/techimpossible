@@ -1,18 +1,15 @@
 ---
 layout: post
 title: "Safety — Part of Information Security"
-description: "The IoT Era"
-headline: "The IoT Era"
-categories: cyber-security
+excerpt: "The IoT Era"
+categories: [cyber-security]
 tags: [CIA, IoT, Safety]
 
-
 imagefeature: safety.jpg
+ 
 comments: true
 share: true
-
 ---
-
 
 <p>In the <a href="http://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/the-iot-convergence-how-it-and-ot-can-work-together-to-secure-the-internet-of-things/">Internet of Things</a>&nbsp;(IoT) era that we have entered, it is becoming apparent to me that nothing follows a linear progression anymore. The abstract models <a href="http://www.tripwire.com/state-of-security/featured/the-startup-problem/">created by start ups</a>, which can and often do disrupt the industry, promote new ways of engaging in business that are not common sense.</p>
 <p>To illustrate this, I’ve made a list of examples that have turned industries on their head and that don’t follow any trends from the past.</p>
