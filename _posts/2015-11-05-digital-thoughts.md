@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-<p><img align=center src="{{ site.baseurl }}/images/digital.jpg" alt="" /></p>
+<p><img src="{{ site.baseurl }}/images/digital.jpg" alt="" /></p>
 <p>&nbsp;
 <p>Our focus is being manipulated. It is not surprising but rather expected.</p>
 <p>&nbsp;Everyone has their eyes glued to a touchscreen. There is hope and promise in those 5 inches and access to a world way better than the one around us.</p>
