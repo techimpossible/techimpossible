@@ -16,7 +16,7 @@ comments: true
 share: true
 
 ---
-<p><img src="{{ site.baseurl }}/images/30dbff9.jpg" alt="" /></p>
+
 <h2>IoE</h2>
 <p>With the emergence of more and more Linux powered devices, whether these are Android smart phones, Smart TVs, consumer level NAS drives, there has been a number of vulnerabilities that have surfaced in the last quarter of 2014 and even more so in 2015.</p>
 <p>Some of these exploits, have been there for over 20 years and this begs the question, why has it been revealed now.</p>

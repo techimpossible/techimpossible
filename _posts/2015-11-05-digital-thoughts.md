@@ -30,7 +30,7 @@ share: true
 <p>No wonder why the CDC has created contingency plans for a zombie apocalypse type scenario.&nbsp;</p>
 <p>It is a question of status and being able to express our pride in taking 20MP photos, when in reality we cannot physically perceive more than 2MP and so that we can post personal information on Facebook to willingly be profiled in the databases of the world.</p>
 <h2> </h2>
-<h2>ConnectioN</h2>
+<h2>Connection</h2>
 <p>An element of connection with others is achieved through the online world and also readily access to information. It is unfathomable though how we have been conditioned into exchanging time for money, to be able to afford a smartphone so that our data submissions are of higher quality and we are more easily identified and classified into the databases of the world for others to use as they see fit.</p>
 <p>If I told you that I would gift you a house but all you had to do is to allow anyone to come in and also provide a status update of what you are doing at any given point during the day and also post photos.</p>
 <p><strong>Would you do it?</strong></p>
@@ -49,7 +49,7 @@ share: true
 <h2> </h2>
 <h2>Tracking</h2>
 <p> </p>
-<p>      <img src="{{ site.baseurl }}/iamges/img.png" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/images/img.png" alt="" /></p>
 <p>What is the true cost of these free services?</p>
 <p>When you download &nbsp;Facebook or Twitter and start posting information, everything is geo-tagged. You location is being embedded into every message you post online and your photos give out even more details.</p>
 <p>This is useful information for marketers but also for hackers. Even when you are not doing anything you smartphone is being constantly interrogated.</p>
@@ -59,7 +59,7 @@ share: true
 <p>There are currently 2 projects that map twitter location, <a href="http://geosocialfootprint.com/#">GeoSocial Footprint</a> and <a href="http://app.teachingprivacy.com/#">Teaching Privacy</a>.</p>
 <p>Just for illustration purposes, we are going to look at Steve Wozniak.</p>
 <p> </p>
-<p>       [caption id="" align="alignnone" width="2762.0"]<img src="{{ site.baseurl }}/iamges/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
+<p> <img src="{{ site.baseurl }}/iamges/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
 <p>The search on the Geo Footprint adds another layer of information. Possible locations.</p>
 <p>      <img src="{{ site.baseurl }}/iamges/geo-footprint.png" alt="" /></p>
 <p> </p>
@@ -68,7 +68,7 @@ share: true
 <p><strong>Settings &gt; Privacy &gt; Location Services &gt; System Services &gt; Frequent Locations &gt; History.</strong></p>
 <p>You will find out exactly where you have been and the exact duration. It is an eye opener.</p>
 <p> </p>
-<p>       [caption id="" align="alignnone" width="2000.0"]<img src="{{ site.baseurl }}/images/img.jpg" alt="Settings > Privacy > Location Services > System Services > Frequent Locations > History" /> Settings > Privacy > Location Services > System Services > Frequent Locations > History[/caption] </p>
+<p>      <img src="{{ site.baseurl }}/images/img.jpg" alt="Settings > Privacy > Location Services > System Services > Frequent Locations > History" /> Settings > Privacy > Location Services > System Services > Frequent Locations > History[/caption] </p>
 <p> </p>
 <p> </p>
 <p>      <img src="{{ site.baseurl }}/images/freedome.PNG" alt="" /></p>
