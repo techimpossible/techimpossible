@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Safety — Part of Information Security"
-excerpt: "The IoT Era"
+headline: "The IoT Era"
 categories: [cyber-security]
 tags: [CIA, IoT, Safety]
 
