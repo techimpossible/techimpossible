@@ -4,7 +4,7 @@ title: "Amazingly Simple Graphic Design Software – Canva"
 excerpt: "Canva makes design simple for everyone."
 categories: [Tech]
 tags: [canva, design, graphics]
-modified: 2015-11-05
+
 
 comments: true
 share: true

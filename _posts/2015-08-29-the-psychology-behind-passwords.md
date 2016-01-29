@@ -6,7 +6,7 @@ type: post
 
 categories:
 - cyber-security
-- blog
+
 tags:
 - 2-factor
 - password
@@ -15,10 +15,7 @@ tags:
 excerpt: It is becoming more and more evident that psychological triggers amount
   for the highest percentage of Cybersecurity risks than actual technical exploits.
 
-image:
-   feature: Password-security.jpg
-
-modified: 2015-11-05
+imagefeature: Password-security.jpg
 
 comments: true
 share: true
