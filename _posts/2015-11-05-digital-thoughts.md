@@ -73,15 +73,13 @@ share: true
 <p> </p>
 <p>      <img src="{{ site.baseurl }}/images/freedome.PNG" alt="" /></p>
 <p>To that effect, I recently started using Freedome VPN from F-Secure on my iDevices. My iPhone alone had over 600 blocked tracking attempts in a very short amount of time.</p>
-<p> </p>
-<p> </p>
 <p>Our smartphone ends up knowing us better than we know ourselves.</p>
 <h2>Marketing</h2>
 <p>Having developed iOS apps in the past 3 years, I have been on the other side of the spectrum myself.</p>
 <p>I have been able to see what big companies see and that is a lot of unseemingly random information. With the use of algorithms and big data manipulation though, you can learn who is using your app, what is their financial status and many more details.</p>
 <p>Especially on Facebook, which could well be a country on its own, you can create advertising campaigns targeting exactly the people you want.</p>
 <p>More interestingly you can target the people that have previously spend money buying stuff advertised on Facebook and spend a certain amount.</p>
-<p>  <img src="{{ site.baseurl }}/iamges/facebookads.png" alt="Facebook Ads" /> Facebook Ads </p>
+<p>  <img src="{{ site.baseurl }}/images/facebookads.png" alt="Facebook Ads" /> Facebook Ads </p>
 <p> </p>
 <p>This is powerful for marketing, but it just goes to show that everything you do online does not go unrecorded.</p>
 <p> </p>
