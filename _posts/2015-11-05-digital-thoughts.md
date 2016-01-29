@@ -59,9 +59,9 @@ share: true
 <p>There are currently 2 projects that map twitter location, <a href="http://geosocialfootprint.com/#">GeoSocial Footprint</a> and <a href="http://app.teachingprivacy.com/#">Teaching Privacy</a>.</p>
 <p>Just for illustration purposes, we are going to look at Steve Wozniak.</p>
 <p> </p>
-<p> <img src="{{ site.baseurl }}/iamges/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
+<p> <img src="{{ site.baseurl }}/images/img.png" alt="Geo Footprint - Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
 <p>The search on the Geo Footprint adds another layer of information. Possible locations.</p>
-<p>      <img src="{{ site.baseurl }}/iamges/geo-footprint.png" alt="" /></p>
+<p>      <img src="{{ site.baseurl }}/images/geo-footprint.png" alt="" /></p>
 <p> </p>
 <p>It is very easy to map out home, work and school locations.</p>
 <p>If you have an iPhone drill down to:</p>
