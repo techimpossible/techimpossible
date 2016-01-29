@@ -4,6 +4,7 @@ title: "The Static Pages Revolution"
 excerpt: "The Static website revolution is already here."
 categories: [IT,blog]
 tags: [static sites, github, jekyll]
+published: false
 
 imagefeature: github.png
 
