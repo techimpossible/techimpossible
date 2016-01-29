@@ -59,7 +59,7 @@ share: true
 <p>There are currently 2 projects that map twitter location, <a href="http://geosocialfootprint.com/#">GeoSocial Footprint</a> and <a href="http://app.teachingprivacy.com/#">Teaching Privacy</a>.</p>
 <p>Just for illustration purposes, we are going to look at Steve Wozniak.</p>
 <p> </p>
-<p> <img src="{{ site.baseurl }}/images/privacy.png" alt="Steve Wozniak" /> Geo Footprint - Steve Wozniak[/caption] </p>
+<p> <img src="{{ site.baseurl }}/images/privacy.png" alt="Steve Wozniak" /> Teaching Privacy - Steve Wozniak </p>
 <p>The search on the Geo Footprint adds another layer of information. Possible locations.</p>
 <p>      <img src="{{ site.baseurl }}/images/geo-footprint.png" alt="" /></p>
 <p> </p>
