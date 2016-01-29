@@ -1,0 +1,18 @@
+---
+layout: pageminimal
+title: Cyber Security
+permalink: /cyber-security/index.html
+excerpt: "An archive of articles sorted by date."
+title: Category Index
+tags: [cyber-security]
+description: "An archive of posts sorted by categories."
+---
+
+
+<h1 align = center style="color: #c91b26"> Cyber Security Articles </h1>
+
+<ul class="post-list">
+{% for post in site.categories.cyber-security %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
