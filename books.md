@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: eBooks
+title: Books
 description: "eBooks on IT Security"
 tags: [ebooks]
 image: 
