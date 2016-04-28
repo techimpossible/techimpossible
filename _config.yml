@@ -52,18 +52,18 @@ links:
     url: /
     external: false
     icon: home
-  - title: Archive
-    url: /archive       
-#  - title: <i class="icon-book"></i> Documentation
- #   url: /documentation
-  - title: Categories
-    url: /categories
   - title: <i class="icon-book"></i> Cyber Security
     url: /cyber-security
   - title: <i class="icon-book"></i> Digital Privacy
     url: /digital-privacy
   - title: <i class="icon-book"></i> Books
     url: /books
+  - title: Archive
+    url: /archive       
+#  - title: <i class="icon-book"></i> Documentation
+ #   url: /documentation
+  - title: Categories
+    url: /categories
   - title: Tags
     url: /tags
   - title: About
