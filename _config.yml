@@ -52,9 +52,9 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Cyber Security
+  - title: Cyber Security
     url: /cyber-security
-  - title: <i class="icon-book"></i> Digital Privacy
+  - title: Digital Privacy
     url: /digital-privacy
   - title: <i class="icon-book"></i> Books
     url: /books
