@@ -60,6 +60,8 @@ links:
     url: /categories
   - title: <i class="icon-book"></i> Cyber Security
     url: /cyber-security
+  - title: <i class="icon-book"></i> Digital Privacy
+    url: /digital-privacy
   - title: Tags
     url: /tags
   - title: About

@@ -5,6 +5,7 @@ excerpt: "This is a list of evidence that we have entered a new era."
 
 categories:
 - cyber-security
+- digital-privacy
 tags:
 - 44con
 - big data
