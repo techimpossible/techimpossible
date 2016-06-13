@@ -4,6 +4,8 @@ Welcome to Techimpossible. This is a blog focusing on Technology, Security and e
 
 I cover mostly Cyber Security and how to be secure when it comes to your digital self.
 
+I have also started a Wiki covering Cyber Security, Privacy, tools and resources for every day users as well for those aspiring to break into the Cyber Security industry.
+
 [Techimpossible Wiki](https://github.com/techimpossible/techimpossible/wiki)
 
 
