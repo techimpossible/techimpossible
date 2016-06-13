@@ -3,9 +3,9 @@
 [Wiki](https://github.com/techimpossible/techimpossible/wiki)
 
 
-# JEKYLL THEME - Credits
+## JEKYLL THEME - Credits
 
-# HMFAYSAL OMEGA THEME
+### HMFAYSAL OMEGA THEME
 
 Project name:	HMFAYSAL OMEGA THEME  
 Author:	Hossain Mohd Faysal  
