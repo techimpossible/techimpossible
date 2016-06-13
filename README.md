@@ -1,11 +1,15 @@
-# Techimpossible Blog
+# Techimpossible
 
-[Wiki](https://github.com/techimpossible/techimpossible/wiki)
+Welcome to Techimpossible. This is a blog focusing on Technology, Security and everything in between.
+
+I cover mostly Cyber Security and how to be secure when it comes to your digital self.
+
+[Techimpossible Wiki](https://github.com/techimpossible/techimpossible/wiki)
 
 
-## JEKYLL THEME - Credits
+### JEKYLL THEME - Credits
 
-### HMFAYSAL OMEGA THEME
+#### HMFAYSAL OMEGA THEME
 
 Project name:	HMFAYSAL OMEGA THEME  
 Author:	Hossain Mohd Faysal  
