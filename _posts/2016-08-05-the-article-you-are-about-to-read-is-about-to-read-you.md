@@ -9,7 +9,7 @@ tags:
   - Privacy
   - Tracking
   - Safety
-imagefeature: safety.jpg
+imagefeature: cameras.jpeg
 comments: true
 share: true
 ---
