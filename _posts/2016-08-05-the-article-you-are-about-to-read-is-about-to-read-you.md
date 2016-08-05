@@ -16,7 +16,9 @@ share: true
 ## The article you are about to read is about to read you!
 
 
-Not this particular one. Not on medium. Medium doesn’t use external scripts. Which is a good thing and refreshing to see.
+Yes and no. My blog here doesn't use anything else apart from Google Analytics.
+
+Medium where I originally posted this article doesn't use external scripts.Which is a good thing and refreshing to see.
 
 Can’t really say the same about every other website out there.
 
@@ -26,9 +28,9 @@ Every site you visit is much more beyond text and images. It’s scripts and plu
 
 It is usually Wordpress these days or some other flavor. A CMS platform that sits on a server somewhere and on top of this Wordpress instance, sits anything between 10–100 other services with variable access and power to GET data.
 
-If you install the Chrome extension Ghostery or the iOS Ghostery browser, you will quickly realize from the popup list of services that are mining data about you.
+If you install the [Chrome extension Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en) or the [iOS Ghostery browser](https://appsto.re/us/yaJlC.i), you will quickly realize from the popup list of services that are mining data about you.
 
-Instead of you reading the article, the website is reading you.
+> Instead of you reading the article, the website is reading you.
 
 
 You can set up Ghostery to block everything but at times it renders some websites unusable. In cases such as Online banking, where they need to track where you are logging on from and identify you, Ghostery will get in the way.
@@ -37,7 +39,7 @@ However for the rest of the web you don’t need to give away all your personal 
 
 In the past 2–3 years, the emergence of the Angler Exploit kit has made it ridiculously easy for cyber criminals to hijack an ad on a Wordpress site or any other site that supports JavaScript and get your system infected just like that.
 
-Unfortunately, you can’t disable JavaScript or the web will die.
+> Unfortunately, you can’t disable JavaScript or the web will die.
 
 As I am shifting through network alerts each day, I see people on their lunch break reading news on their favorite blogs and while being blissfully unaware of what is happening in the background, I get flooded with blocked inbound attempts to deliver payloads.
 
@@ -49,14 +51,16 @@ They use the advertising networks as the medium of delivery and exploit the inhe
 
 Most successful hacks are not 100% relying on technology but the weakest link between technology, psychology and human behavior.
 
-How do you fix that?
+_How do you fix that?_
 
 I don’t know.
 
 Probably through combination of things. Blocking social media and everything that web filtering systems announce suspicious and dangerous each and every day is not the way.
-User education
-Detection tools
-Internal Phishing Campaigns
+
+- User education
+- Detection tools
+- Internal Phishing Campaigns
+
 There are definitely other ways of approaching this issue and for the most past evolve White hat tools.
 
 A lot of the tools coming out employ honeypots and AI that creates baseline behaviors by stacking users and their daily activity.
@@ -65,6 +69,6 @@ And you actually pay for that. A lot of money.
 
 That’s another story for another day.
 
-So get the Ghostery and browse away.
+So get **Ghostery** and browse away.
 
 If you liked this article, please recommend it below and share it.
