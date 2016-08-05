@@ -47,6 +47,7 @@ bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
+# For a list of icons visit http://fontawesome.io/icons/
 links:
   - title: Home
     url: /
@@ -57,7 +58,7 @@ links:
     icon: key
   - title: Digital Privacy
     url: /digital-privacy
-    icon: glass
+    icon: fa-user-secret
   - title: Books
     url: /books
     icon: book
