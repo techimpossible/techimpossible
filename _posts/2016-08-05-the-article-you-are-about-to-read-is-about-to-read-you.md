@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 headline: The article you are about to read is about to read you!
 excerpt: Yes and no...
