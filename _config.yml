@@ -4,7 +4,7 @@ logo:             site-logo-white.png
 disqus_shortname: techimpossibleempire
 # Assign a default image for your site's header and footer
 default_bg:       cyber.jpg
-search:           true
+search:           false
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
