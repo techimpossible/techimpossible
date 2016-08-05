@@ -33,6 +33,10 @@ If you install the [Chrome extension Ghostery](https://chrome.google.com/webstor
 > Instead of you reading the article, the website is reading you.
 
 
+![ghostery.jpeg]({{site.baseurl}}/_posts/ghostery.jpeg)
+
+
+
 You can set up Ghostery to block everything but at times it renders some websites unusable. In cases such as Online banking, where they need to track where you are logging on from and identify you, Ghostery will get in the way.
 
 However for the rest of the web you don’t need to give away all your personal information and sometimes more than you think.
