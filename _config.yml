@@ -58,7 +58,7 @@ links:
     icon: key
   - title: Digital Privacy
     url: /digital-privacy
-    icon: <i class="fa fa-user-secret" aria-hidden="true"></i>
+    icon: <i class="icon-secret"></i>
   - title: Books
     url: /books
     icon: book
