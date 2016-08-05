@@ -54,6 +54,7 @@ links:
     icon: home
   - title: Cyber Security
     url: /cyber-security
+    icon: key
   - title: Digital Privacy
     url: /digital-privacy
   - title: Books
