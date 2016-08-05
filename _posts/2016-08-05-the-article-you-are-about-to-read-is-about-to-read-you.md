@@ -1,5 +1,17 @@
 ---
 published: false
+layout: post
+headline: The article you are about to read is about to read you!
+excerpt: Yes and no...
+categories:
+  - digital-privacy
+tags:
+  - Privacy
+  - Tracking
+  - Safety
+imagefeature: safety.jpg
+comments: true
+share: true
 ---
 ## The article you are about to read is about to read you!
 
