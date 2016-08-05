@@ -33,7 +33,7 @@ If you install the [Chrome extension Ghostery](https://chrome.google.com/webstor
 > Instead of you reading the article, the website is reading you.
 
 
-![ghostery.jpeg]({{site.baseurl}}/_posts/ghostery.jpeg)
+![ghostery.jpeg]({{site.baseurl}}/images/ghostery.jpeg)
 
 
 
