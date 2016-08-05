@@ -57,8 +57,10 @@ links:
     icon: key
   - title: Digital Privacy
     url: /digital-privacy
+    icon: spyglass
   - title: Books
     url: /books
+    icon: book
   - title: Archive
     url: /archive       
 #  - title: <i class="icon-book"></i> Documentation
