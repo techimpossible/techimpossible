@@ -210,7 +210,7 @@ prose:
           value: false
 
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 paginate: 5
 paginate_path: "page:num"
 
